@@ -400,3 +400,5 @@ https://github.com/jisraeli/DeepBind/tree/master/data/dream5
 ლუკა ტურაბელიძე - DeeperMind სტატიის მიხედვით CNN-LSTM არქიტექტურის იმპლემენტაცია.
 
 _გუნდის ყველა წევრმა თავისი შესრულებული სამუშაოს სლაიდები ააწყო და README-ში სიტყვიერად აღწერა._
+
+[პრეზენტაცია](https://www.canva.com/design/DAHAh43g4LM/oxKKvMIhdD82twaGtrijkg/edit?utm_content=DAHAh43g4LM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
